@@ -5,7 +5,8 @@ Created using Oracle Express Edition (XE).
 ## Tables Included
 - department.sql - Stores department details
 - employees.sql - Stores employee master data
-- leave_applications.sql - Manages salary records
+- leave_applications.sql - Manages employee leaves
+- salary_ledger.sql - Manages salary records
 
  ## How to Run This Project
 1. Open Oracle SQL Developer / SQL Plus

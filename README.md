@@ -13,7 +13,7 @@ Created using Oracle Express Edition (XE).
 3. Run files in this order:
     department -> employees -> leave_applications -> salary_ledger
 
-## Tech Stack
+## Tech Stack: Java, JDBC, JSP, Oracle PL/SQL, SQL Server
 - Database: Oracle XE
 - Language: PL/SQL
 

@@ -18,4 +18,9 @@ Created using Oracle Express Edition (XE).
 - Database: Oracle XE
 - Language: PL/SQL
 
-Author: Rishabh Jaiswal (rishabhjaiswal-dev8)
+Features:
+- Add / Delete / Search Employee
+- Database in Oracle & SQl Server
+- Connected with Java JDBC
+
+Made by: Rishabh Jaiswal | BSc Maths + Java Developer
